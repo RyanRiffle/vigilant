@@ -6,7 +6,7 @@ This repo hosts the REST API and the backend that runs the plugins against hosts
 
 ## Disclaimer
 
-The project at this time can use plugins to monitor services however the frontend [vigilang-web](https://github.com/RyanRiffle/vigilant-web) is not even minimally viable yet. In the frontend you can add hosts and plugins but are not able to setup schedules for using the plugins to scan the hosts. So to be able to use the service you must use an application like Postman until it is implemented.
+The project at this time can use plugins to monitor services however the frontend [vigilant-web](https://github.com/RyanRiffle/vigilant-web) is not even minimally viable yet. In the frontend you can add hosts and plugins but are not able to setup schedules for using the plugins to scan the hosts. So to be able to use the service you must use an application like Postman until it is implemented.
 
 ## Building for Development
 To get started you should install Sails.js.
