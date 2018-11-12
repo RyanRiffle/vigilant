@@ -31,8 +31,8 @@
     "type": "git",
     "url": "git://github.com/RyanRiffle/vigilant.git"
   },
-  "author": "ryan",
-  "license": "",
+  "author": "Ryan Riffle <ryanriffle@icloud.com>",
+  "license": "GPL-2.0",
   "engines": {
     "node": ">=8.11"
   }
